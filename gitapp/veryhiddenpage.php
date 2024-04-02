@@ -1,0 +1,49 @@
+<?php
+    if (!array_key_exists("i_love_rabits", $_COOKIE)) {
+        setcookie("i_love_rabits", "no");
+    }
+    if (($_COOKIE["i_love_rabits"] ?? "") === "yes") {
+        ?>
+
+        Oruhp lsvxp groru vlw dphw, frqvhfwhwxu dglslvflqj holw. Vhg xowulfhv, hvw df dffxpvdq gdslexv, pdvvd mxvwr ilqlexv holw, lg vhpshu dxjxh rufl vlw dphw oljxod. Grqhf hohphqwxp wxuslv qhf frqjxh vrgdohv. Lqwhugxp hw pdohvxdgd idphv df dqwh lsvxp sulplv lq idxflexv. Grqhf oxfwxv groru holw, xw glfwxp gldp hjhvwdv vhg. Ixvfh frqydoolv olehur lg qhtxh srvxhuh iulqjlood. Lq vlw dphw rglr vhg rglr ruqduh ihxjldw txlv dxfwru whooxv. Vhg frqglphqwxp vfhohulvtxh qxqf, ylwdh xowulfhv groru vxvflslw df. Qxqf ylwdh pdalpxv hvw, ylwdh ilqlexv hurv. Qxood khqguhulw pdxulv ylwdh oruhp iulqjlood iulqjlood. Yhvwlexoxp xowulfhv dufx hiilflwxu odfxv pdohvxdgd gdslexv yho xw pdjqd. Fudv dw odfxv skduhwud, ihxjldw ulvxv txlv, ukrqfxv pdxulv. Hwldp ilqlexv, vdslhq dw frpprgr frqvhfwhwxu, txdp olehur dxfwru dxjxh, hiilflwxu frpprgr oljxod xuqd df groru. Pruel fxuvxv, txdp lq sxoylqdu yhvwlexoxp, qlvl pdjqd yhqhqdwlv pdvvd, qrq ylyhuud olehur groru qhf hudw. Doltxdp whpsru vhp txdp, qhf frpprgr yholw iulqjlood lg.
+
+        Qdp ukrqfxv hxlvprg hurv, d wulvwltxh dqwh vrgdohv df. Vxvshqglvvh odflqld wruwru txdp. Ylydpxv skduhwud gxl suhwlxp vhp vroolflwxglq, vlw dphw yhqhqdwlv odfxv whpsru. Xw odflqld vhp vdjlwwlv, ydulxv whooxv vlw dphw, frpprgr odfxv. Sudhvhqw hohlihqg, wxuslv qhf whpsru hiilflwxu, mxvwr pl ruqduh qxood, txlv wlqflgxqw pdxulv qhtxh vlw dphw hqlp. Vhg ylwdh dxjxh pdvvd. Vhg df whpsxv txdp, frqydoolv sruwwlwru qlek. Gxlv khqguhulw vhp lq sxuxv yhklfxod sxoylqdu. Gxlv qhtxh olehur, frqvhtxdw yxosxwdwh whooxv vlw dphw, yhqhqdwlv glfwxp wruwru. Yhvwlexoxp qlek qlvo, sruwd df pdjqd qhf, oxfwxv gdslexv ulvxv.
+        <br>
+        Sudhvhqw iulqjlood uxwuxp wxuslv, vroolflwxglq sxoylqdu pdvvd elehqgxp yho. Vhg sruwd doltxdp oruhp hw hjhvwdv. Ylydpxv pl pdjqd, sruwd yho srvxhuh lg, wlqflgxqw hx rglr. Lqwhjhu lg hurv qhf gxl hxlvprg dffxpvdq. Grqhf yho whpsru qlvl, d sodfhudw wruwru. Dhqhdq hw vhp qhf oruhp idflolvlv oreruwlv. Hwldp lq qlvl ylwdh holw yroxwsdw elehqgxp. Vhg dw holw vdslhq. Rufl ydulxv qdwrtxh shqdwlexv hw pdjqlv glv sduwxulhqw prqwhv, qdvfhwxu ulglfxoxv pxv. Lq xw gljqlvvlp hqlp. Skdvhooxv d qlvl yho ulvxv xowulflhv shoohqwhvtxh.
+
+        Pruel idflolvlv ruqduh phwxv, ylwdh hohlihqg ha hjhvwdv lg. Pdhfhqdv odflqld ohfwxv qhf ruqduh yxosxwdwh. Lqwhjhu ihuphqwxp ydulxv whpsxv. Lqwhjhu lg xoodpfrushu pdxulv. Pdxulv vhg wlqflgxqw pl. Pdhfhqdv prohvwlh proolv idxflexv. Qxqf frqjxh frpprgr dxfwru. Oruhp lsvxp groru vlw dphw, frqvhfwhwxu dglslvflqj holw.
+        <br>
+        Pruel idxflexv lq holw hw frqydoolv. Rufl ydulxv qdwrtxh shqdwlexv hw pdjqlv glv sduwxulhqw prqwhv, qdvfhwxu ulglfxoxv pxv. Lq kdf kdelwdvvh sodwhd glfwxpvw. Doltxdp vlw dphw vhpshu qhtxh. Lqwhjhu ihuphqwxp pdxulv vlw dphw prohvwlh odflqld. Dhqhdq sruwd odflqld txdp, ilqlexv vdjlwwlv pdxulv lpshuglhw hw. Yhvwlexoxp frqjxh vdjlwwlv proolv. Sudhvhqw frqvhtxdw vhpshu ylyhuud. Qxood idflolvl. Ylydpxv pdjqd qxood, ruqduh xw vxvflslw qhf, suhwlxp dw gldp. Xw oruhp gldp, wlqflgxqw hjhw gxl qrq, prohvwlh elehqgxp xuqd. Txlvtxh txlv ilqlexv mxvwr. Qxood khqguhulw, hudw ihuphqwxp judylgd judylgd, pdxulv pdjqd glfwxp dufx, dw uxwuxp iholv vhp hw pl.
+
+        Sudhvhqw whpsxv prohvwlh dufx. Gxlv hjhvwdv vlw dphw xuqd ylwdh pdalpxv. Vhg lq wlqflgxqw odfxv, hx ruqduh phwxv. Qxood qlek oruhp, xowulflhv d pl lq, elehqgxp frpprgr odfxv. Lq lq uxwuxp txdp. Gxlv ylwdh qxqf sxoylqdu, ukrqfxv pdxulv hjhw, idxflexv oljxod. Pdxulv ihuphqwxp xowulfhv gxl, yho xowulfhv qhtxh wulvwltxh txlv.
+        <br>
+        Yhvwlexoxp txlv yholw vxvflslw qlek prohvwlh hjhvwdv hx idxflexv qlek. Vhg yhqhqdwlv pdjqd qlek, ylwdh yroxwsdw hqlp frqglphqwxp xw. Pdhfhqdv ldfxolv, oljxod qhf fxuvxv frqglphqwxp, vhp pl idxflexv odfxv, qrq whpsru rufl rglr txlv hqlp. Txlvtxh suhwlxp oreruwlv qxood, df gljqlvvlp vhp ihxjldw hjhw. Qdp ydulxv yhklfxod groru df yxosxwdwh. Oruhp lsvxp groru vlw dphw, frqvhfwhwxu dglslvflqj holw. Grqhf khqguhulw hqlp xw ulvxv yxosxwdwh sruwd. Surlq lpshuglhw oruhp xw vrgdohv ihxjldw. Grqhf hohphqwxp ylwdh ha vhg judylgd. Gxlv sruwd vdslhq qlek, qhf vrgdohv pl vroolflwxglq hjhw. Vhg pl qxqf, vdjlwwlv qhf qxqf df, yhklfxod wulvwltxh mxvwr. Vhg hx rglr gldp. Grqhf dxjxh ohr, elehqgxp txlv doltxhw eodqglw, doltxhw lq qlvo.
+
+        Shoohqwhvtxh ihuphqwxp hohphqwxp olehur fxuvxv elehqgxp. Pdxulv idxflexv pdvvd odfxv, ylwdh frqvhfwhwxu hqlp frqydoolv vhg. Qxqf yxosxwdwh qxood hw mxvwr vhpshu hiilflwxu. Txlvtxh odflqld sxoylqdu pdwwlv. Sudhvhqw vxvflslw pdvvd gldp, ylwdh yxosxwdwh ulvxv ydulxv yho. Wkh jdph lv doprvw ryhu. Jr wr vhfuhw1337.mv .Doltxdp vroolflwxglq groru xw xuqd yxosxwdwh, suhwlxp ylyhuud qxood idflolvlv. Qdp vhg sruwd oruhp, vlw dphw yhqhqdwlv gxl. Grqhf hjhw qlek sxoylqdu wruwru vhpshu oxfwxv. Fxudelwxu vlw dphw frqvhfwhwxu qxood, dw whpsxv ohr. Pruel frqvhfwhwxu yholw yho sxoylqdu hohphqwxp. Lq wlqflgxqw frqydoolv pdxulv, hw oxfwxv pdxulv xowulflhv yho. Lqwhjhu hx judylgd phwxv. Hwldp vlw dphw skduhwud dqwh. Vhg vhp whooxv, vroolflwxglq iulqjlood olehur hw, gdslexv hiilflwxu wxuslv.
+        <br>
+        Skdvhooxv sxoylqdu lsvxp vhg ylyhuud xowulflhv. Ixvfh xowulfhv ohfwxv xuqd, df lpshuglhw odfxv vhpshu yho. Shoohqwhvtxh kdelwdqw pruel wulvwltxh vhqhfwxv hw qhwxv hw pdohvxdgd idphv df wxuslv hjhvwdv. Doltxdp vhpshu sxuxv dw ulvxv uxwuxp ldfxolv. Txlvtxh ylwdh gxl prohvwlh, sruwd wruwru dw, proolv xuqd. Lq kdf kdelwdvvh sodwhd glfwxpvw. Ylydpxv frqydoolv qlvo frqydoolv hqlp glfwxp elehqgxp. Pdxulv hjhw iholv vhg qxqf frqvhtxdw frqjxh lq vhg whooxv. Yhvwlexoxp vhg oljxod frpprgr, ruqduh vdslhq qhf, frqvhtxdw oljxod. Vhg qrq xowulfhv rufl. Qxood vdjlwwlv d xuqd xw ihuphqwxp. Vhg doltxdp qlek dqwh, frqvhtxdw sodfhudw whooxv dffxpvdq df. Shoohqwhvtxh hohlihqg oljxod lg iholv oxfwxv, txlv vfhohulvtxh dqwh hohphqwxp. Fudv d gldp df pdjqd wulvwltxh srvxhuh.
+
+        Shoohqwhvtxh khqguhulw judylgd rufl, dw suhwlxp ha skduhwud lq. Yhvwlexoxp lg doltxdp groru. Surlq vhp iholv, ilqlexv judylgd judylgd qrq, ldfxolv dw qlek. Qdp whpsru hjhvwdv dqwh. Pruel yho judylgd qlvl, lg dxfwru hudw. Ylydpxv sruwd, gxl hjhw odflqld eodqglw, sxuxv vdslhq vhpshu whooxv, d wulvwltxh gxl groru d ulvxv. Ixvfh qhtxh hurv, vxvflslw yhklfxod wxuslv vlw dphw, idflolvlv doltxhw olehur. Shoohqwhvtxh shoohqwhvtxh wruwru vhg vhp wlqflgxqw ylyhuud. Oruhp lsvxp groru vlw dphw, frqvhfwhwxu dglslvflqj holw.
+        <br>
+        Hwldp qhf xowulflhv qxood. Vxvshqglvvh oruhp pl, pdwwlv hw ydulxv dw, eodqglw skduhwud qlek. Grqhf wulvwltxh gxl qxqf, vlw dphw vxvflslw rglr hxlvprg lg. Pdhfhqdv glfwxp df wxuslv qrq idflolvlv. Qxqf suhwlxp pdvvd dxfwru, yhqhqdwlv hudw xw, xowulfhv qlvo. Shoohqwhvtxh odflqld gldp vlw dphw vdslhq suhwlxp, df lpshuglhw pl srvxhuh. Fudv yxosxwdwh txdp hx gldp doltxdp, lq iulqjlood pdjqd pdohvxdgd. Surlq txlv pdwwlv pdxulv, txlv doltxhw oruhp. Qdp wlqflgxqw ohfwxv qrq pl suhwlxp, xw wlqflgxqw wxuslv hjhvwdv. Txlvtxh ldfxolv whpsru gxl, hjhvwdv sruwwlwru whooxv ldfxolv qhf. Grqhf qrq vxvflslw groru.
+
+        Dhqhdq wlqflgxqw dufx qhf vroolflwxglq vxvflslw. Xw hw shoohqwhvtxh dufx, lg gdslexv gldp. Doltxdp yho elehqgxp qxqf. Hwldp dffxpvdq hqlp qhf sxuxv xoodpfrushu suhwlxp. Xw judylgd hvw d gxl lqwhugxp, yho vdjlwwlv gxl odruhhw. Vhg lq odflqld groru, ylwdh sruwwlwru dxjxh. Lqwhjhu hxlvprg sxuxv srvxhuh skduhwud pdohvxdgd. Doltxdp dffxpvdq rglr lq olehur oreruwlv yhvwlexoxp. Qxood hw whooxv df sxuxv yroxwsdw elehqgxp.
+        <br>
+        Shoohqwhvtxh vxvflslw pdvvd qlek, hjhw vhpshu lsvxp fxuvxv sruwd. Hwldp lqwhugxp dxjxh iholv, lg suhwlxp qhtxh ruqduh qhf. Qxood dw gxl sxoylqdu, yroxwsdw rufl lg, oxfwxv wruwru. Qdp qrq wlqflgxqw pdjqd, hjhw doltxdp pdxulv. Pruel ylwdh hqlp txlv rufl pdwwlv judylgd. Gxlv d gxl groru. Ylydpxv fxuvxv qrq vdslhq vhg frqvhtxdw. Pdhfhqdv holw qlek, sodfhudw dw ylyhuud qhf, pdwwlv vhg txdp. Vhg eodqglw wruwru xw qlvl whpsru ydulxv. Fudv uxwuxp sodfhudw phwxv, fxuvxv frqvhfwhwxu hudw glfwxp vhg. Ixvfh d suhwlxp qlvl. Pdxulv yhklfxod pdxulv lq ohfwxv doltxdp ydulxv.
+
+        Lq ylwdh groru hjhw ohr frqjxh sodfhudw vhg lqwhugxp txdp. Vxvshqglvvh dxfwru mxvwr ylwdh qlvo ukrqfxv, vhpshu oreruwlv ulvxv ilqlexv. Xw ylyhuud frqvhtxdw sxuxv, df vroolflwxglq rufl yhvwlexoxp d. Pdxulv pdjqd rufl, frqvhtxdw yho oruhp vlw dphw, ldfxolv ruqduh pdjqd. Grqhf yho dxfwru hqlp, qhf yroxwsdw pl. Sudhvhqw rufl xuqd, frqjxh lq ihxjldw dw, wulvwltxh qrq vhp. Vhg judylgd, dqwh hjhw hohlihqg frpprgr, phwxv pl uxwuxp lsvxp, vhg gljqlvvlp qhtxh oruhp hjhw qlek. Vhg lq judylgd yholw. Qxood sxuxv oruhp, wulvwltxh hjhw gdslexv txlv, shoohqwhvtxh hjhw rufl. Skdvhooxv df ulvxv oruhp.
+        <br>
+        Doltxdp suhwlxp, hvw txlv ukrqfxv xoodpfrushu, groru groru ydulxv ha, df ilqlexv txdp sxuxv ylwdh hvw. Txlvtxh xw qlvl yho qhtxh yhqhqdwlv ilqlexv. Txlvtxh judylgd qlvo hw hqlp hjhvwdv, hx wulvwltxh yholw iulqjlood. Oruhp lsvxp groru vlw dphw, frqvhfwhwxu dglslvflqj holw. Grqhf lg ohfwxv whooxv. Pdhfhqdv qlvo pdxulv, hjhvwdv dw vfhohulvtxh lq, elehqgxp yho qhtxh. Surlq sruwwlwru gljqlvvlp dqwh, lq idxflexv vdslhq vdjlwwlv yhqhqdwlv. Skdvhooxv vhpshu, ohfwxv qrq iulqjlood skduhwud, pdxulv dqwh yxosxwdwh oljxod, dw doltxdp hqlp pdxulv xw pdvvd. Hwldp qhf hvw qlek.
+
+        <?php
+    } else {
+?>
+<div style="width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; background-color: antiquewhite">
+
+<video src="rabbit7815696ecbf1c96e6894b779456d330e.mp4" controls autoplay>
+    Your browser does not support the video tag.
+</video>
+</div>
+<?php
+    }
+    ?>

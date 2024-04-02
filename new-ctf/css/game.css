@@ -1,0 +1,51 @@
+div {
+    width:100%;
+    position: absolute;
+    bottom:0;
+    height: 7%;
+    background-image: url("../img/ground.jpg");
+}
+
+.label-level {
+    float: right;
+}
+
+.label-level-placeholder {
+    color: #00cc00;
+}
+
+.msg {
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-top:-100px;
+    margin-left:-100px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    color: red;
+}
+
+.msg2 {
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-top:-100px;
+    margin-left:-100px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    color: green;
+}
+
+.msg3 {
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-top:-100px;
+    margin-left:-100px;
+    width:200px;
+    height:200px;
+    text-align: center;
+    color: green;
+}

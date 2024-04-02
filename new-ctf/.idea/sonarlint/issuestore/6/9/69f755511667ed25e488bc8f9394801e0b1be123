@@ -1,0 +1,6 @@
+
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(šñ¹þýÿÿÿÿ
+;	php:S2003"&Replace "require" with "require_once".(¹”Æ´
+;	php:S2003"&Replace "require" with "require_once".(õß®Ñ
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(¹”Æ´
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(õß®Ñ

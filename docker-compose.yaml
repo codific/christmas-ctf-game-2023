@@ -1,0 +1,18 @@
+version: '3'
+services:
+  web1:
+    image: php:7.4-apache
+    container_name: codific_ctf_111
+    ports:
+      - "8080:80"
+    volumes:
+      - ./new-ctf:/var/www/html
+  web2:
+    image: php:7.4-apache
+    container_name: codific_ctf_222    
+    ports:
+      - "12345:80"
+    volumes:
+      - ./gitapp:/var/www/html
+
+

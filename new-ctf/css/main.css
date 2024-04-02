@@ -1,0 +1,26 @@
+.header {
+    height: 200px;
+    background: black;
+}
+
+.body {
+    background: #404040;
+    height: 80vw;
+}
+
+.menubar-row {
+    background: #262626;
+}
+
+.footer-row {
+    background: black;
+}
+
+body {
+    color: white;
+}
+
+.gallery-img {
+    height: 300px;
+    width: 300px;
+}
